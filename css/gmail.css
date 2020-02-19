@@ -51,13 +51,13 @@ hr {
 }
 
 /* main */
+/* Mini Menù */
 
-
-
-.background-principale {
+.background {
   background-color: rgba(217, 217, 217, 0.2);
   padding: 3px;
   border-radius: 20px;
+  margin-bottom: 3px;
 }
 
 .testo-num-pagine {
@@ -67,7 +67,7 @@ hr {
   color: rgba(217, 217, 217, 0.6);
 }
 
-.checkbox {
+.checkbox-mini-menù {
  border: none;
  border-radius: 2px;
  background-color: rgba(217, 217, 217, 0.2);
@@ -76,4 +76,32 @@ hr {
 .refresh {
   width: 2%;
   vertical-align: sub;
+}
+
+/* Email */
+
+#margin-testo-email {
+  margin-left: 10%;
+}
+
+.checkbox-email {
+  vertical-align: text-bottom
+
+  ;
+}
+
+.white-simbol {
+  color: white;
+}
+
+.testo-oggetto {
+  font-weight: bolder;
+}
+
+.tre-puntini::after {
+  content: '...';
+}
+
+.tre-puntini::before {
+  content: '|';
 }

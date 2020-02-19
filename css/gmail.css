@@ -1,3 +1,5 @@
+/* General */
+
 * {
   box-sizing: border-box;
   font-family: 'Varela Round', sans-serif;
@@ -46,4 +48,32 @@ hr {
 .barra-di-ricerca {
   width: 80%;
   margin-left: 10%;
+}
+
+/* main */
+
+
+
+.background-principale {
+  background-color: rgba(217, 217, 217, 0.2);
+  padding: 3px;
+  border-radius: 20px;
+}
+
+.testo-num-pagine {
+  margin-left: 80%;
+  font-style: oblique;
+  font-weight: bolder;
+  color: rgba(217, 217, 217, 0.6);
+}
+
+.checkbox {
+ border: none;
+ border-radius: 2px;
+ background-color: rgba(217, 217, 217, 0.2);
+}
+
+.refresh {
+  width: 2%;
+  vertical-align: sub;
 }

@@ -12,7 +12,7 @@ body {
   margin: 0 20%;
 }
 
-/* Header */
+/* HEADER */
 
 hr {
   border: none;
@@ -50,7 +50,7 @@ hr {
   margin-left: 10%;
 }
 
-/* main */
+/* MAIN */
 /* Mini Menù */
 
 .background {
@@ -104,4 +104,21 @@ hr {
 
 .tre-puntini::before {
   content: '|';
+}
+
+/* FOOTER */
+
+.background-footer {
+  background-color: rgba(217, 217, 217, 0.2);
+  padding: 3px;
+  border-radius: 20px;
+}
+
+.footer-text-centre {
+  text-align: center;
+}
+
+.bolder-text {
+  font-style: oblique;
+  font-weight: bolder;
 }

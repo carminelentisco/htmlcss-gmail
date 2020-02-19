@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Varela Round', sans-serif;
+}
+
+body {
+  background-image: url('../img/sfondo.jpg');
+  background-size: cover;
+  height: 100vh;
+  margin: 0 20%;
+}

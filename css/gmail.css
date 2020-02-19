@@ -12,13 +12,14 @@ body {
   margin: 0 20%;
 }
 
-/* HEADER */
-
 hr {
   border: none;
   background-color: white;
   height: 3px;;
 }
+
+/* HEADER */
+
 
 #logo {
   vertical-align: middle;

@@ -1,5 +1,13 @@
-# Gmail
+# Esercitazione : Gmail
 
-* Esercitazione HTML5 CSS3 *
+*In questo esercizio è stato richiesto di riprodurre un ipotetica pagina Gmail*
 
-Creazione di un finto Gmail
+---
+> Tecnologie utilizzate
+>
+> - HTML5
+> - CSS3
+
+## Preview 
+
+<img src="./img/htmlcss-gmail-img.PNG">
